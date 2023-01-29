@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtusCoreReact", "OtusCoreReact\OtusCoreReact.csproj", "{519B51FB-0424-4566-A53F-E9AD87CFD7EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{D4C6431B-843F-43B9-A7D9-D81A9EFD810D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{D4C6431B-843F-43B9-A7D9-D81A9EFD810D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ReactProject", "ReactProject\ReactProject.esproj", "{1AB5A520-4CEF-4B5B-B5E7-4767E01ABCC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,12 @@ Global
 		{D4C6431B-843F-43B9-A7D9-D81A9EFD810D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4C6431B-843F-43B9-A7D9-D81A9EFD810D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4C6431B-843F-43B9-A7D9-D81A9EFD810D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB5A520-4CEF-4B5B-B5E7-4767E01ABCC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB5A520-4CEF-4B5B-B5E7-4767E01ABCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB5A520-4CEF-4B5B-B5E7-4767E01ABCC8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1AB5A520-4CEF-4B5B-B5E7-4767E01ABCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB5A520-4CEF-4B5B-B5E7-4767E01ABCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB5A520-4CEF-4B5B-B5E7-4767E01ABCC8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
